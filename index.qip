@@ -1,0 +1,18 @@
+# ==============================================================================
+# Quartus Prime QIP Index File
+# ==============================================================================
+set_global_assignment -name VHDL_FILE [file join $::quartus(qip_path) "rtl/GBse.vhd"]
+set_global_assignment -name VHDL_FILE [file join $::quartus(qip_path) "rtl/T16450.vhd"]
+set_global_assignment -name VHDL_FILE [file join $::quartus(qip_path) "rtl/T80.vhd"]
+set_global_assignment -name VHDL_FILE [file join $::quartus(qip_path) "rtl/T8080se.vhd"]
+set_global_assignment -name VHDL_FILE [file join $::quartus(qip_path) "rtl/T80a.vhd"]
+set_global_assignment -name VHDL_FILE [file join $::quartus(qip_path) "rtl/T80as.vhd"]
+set_global_assignment -name VHDL_FILE [file join $::quartus(qip_path) "rtl/T80pa.vhd"]
+set_global_assignment -name VHDL_FILE [file join $::quartus(qip_path) "rtl/T80s.vhd"]
+set_global_assignment -name VHDL_FILE [file join $::quartus(qip_path) "rtl/T80se.vhd"]
+set_global_assignment -name VHDL_FILE [file join $::quartus(qip_path) "rtl/T80sed.vhd"]
+set_global_assignment -name VHDL_FILE [file join $::quartus(qip_path) "rtl/T80_ALU.vhd"]
+set_global_assignment -name VHDL_FILE [file join $::quartus(qip_path) "rtl/T80_MCode.vhd"]
+set_global_assignment -name VHDL_FILE [file join $::quartus(qip_path) "rtl/T80_Pack.vhd"]
+set_global_assignment -name VHDL_FILE [file join $::quartus(qip_path) "rtl/T80_Reg.vhd"]
+set_global_assignment -name VHDL_FILE [file join $::quartus(qip_path) "rtl/Z80.vhd"]

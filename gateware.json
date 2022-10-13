@@ -1,0 +1,16 @@
+{
+    "name": "cpu-t80",
+    "type": "module",
+    "description": "T80 a Z80 Compatible Microprocessor",
+    "author": "Daniel Wallner",
+    "homepage": "https://opencores.org/projects/t80",
+    "version": "3.5.1",
+    "license": "BSD-3-Clause",
+    "keywords": [
+        "cpu",
+        "t80",
+        "z80",
+        "ecosystem:gateman",
+        "gateman:module"
+    ]
+}
